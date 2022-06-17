@@ -1,0 +1,10 @@
+[
+  {
+    "package": "onbabynames",
+    "oncran": true
+  },
+  {
+    "package": "prenoms",
+    "oncran": true
+  }
+]
